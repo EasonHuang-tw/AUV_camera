@@ -2,7 +2,7 @@
 from __future__ import print_function
 
 import roslib
-roslib.load_manifest('beginner_tutorials')
+roslib.load_manifest('AUV_camera')
 import sys
 import rospy
 import cv2
